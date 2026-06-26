@@ -46,16 +46,16 @@ This is intentional, not an oversight, and it's worth being upfront about what t
 ## Visualizations
 
 ### Training Loss per Epoch
-![Training Loss](assets/training_loss.png)
+![Training Loss](training_loss.png)
 
 ### Vocabulary Frequency Distribution
-![Vocabulary Frequency](assets/vocab_frequency.png)
+![Vocabulary Frequency](vocab_frequency.png)
 
 ### Sequence Length Distribution
-![Sequence Length Distribution](assets/sequence_length_dist.png)
+![Sequence Length Distribution](sequence_length_dist.png)
 
 ### Word Embedding Space (PCA projection)
-![Word Embeddings PCA](assets/embeddings_pca.png)
+![Word Embeddings PCA](embeddings_pca.png)
 
 ## Observations
 
