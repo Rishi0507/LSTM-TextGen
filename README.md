@@ -45,8 +45,6 @@ This is intentional, not an oversight, and it's worth being upfront about what t
 
 ## Visualizations
 
-> Run the chart-generation code (kept separately, not in this README) after training, save the figures into an `assets/` folder, then they'll render below.
-
 ### Training Loss per Epoch
 ![Training Loss](assets/training_loss.png)
 
